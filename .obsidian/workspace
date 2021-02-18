@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "5aeef55eb71af5db",
+    "type": "split",
+    "children": [
+      {
+        "id": "304f737faac428a7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "books/Докинз - Эгоистичный ген.md",
+            "mode": "source"
+          }
+        },
+        "group": "4eed3a73d7bca098"
+      },
+      {
+        "id": "269b9f0de30bda46",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "books/Докинз - Эгоистичный ген.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4eed3a73d7bca098"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96bb22bba75c6879",
+    "type": "split",
+    "children": [
+      {
+        "id": "1661f49e16b29528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f80a7eb7579517",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fec015aaf8b04236",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f88730c57432c414",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8461abf2723383ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "44f344bfc81d2f62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "541e364e6afc5018",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books/Докинз - Эгоистичный ген.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5feabbea763492b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books/Докинз - Эгоистичный ген.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "202102180455.md",
+    "books/Рекомендации по научпопу.md",
+    "Рекомендации по научпопу.md",
+    "Untitled.md",
+    "202101150859.md"
+  ]
+}
