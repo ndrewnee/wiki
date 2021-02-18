@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "8d6a4523b5f2b2a2",
+        "id": "304f737faac428a7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "books/Докинз - Эгоистичный ген.md",
             "mode": "source"
           }
         },
-        "group": "b941bd5883e8013f"
+        "group": "4eed3a73d7bca098"
       },
       {
-        "id": "6caedfa69f6a1ac9",
+        "id": "269b9f0de30bda46",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "books/Докинз - Эгоистичный ген.md",
             "mode": "preview"
           }
         },
-        "group": "b941bd5883e8013f"
+        "group": "4eed3a73d7bca098"
       }
     ],
     "direction": "vertical"
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "books/Докинз - Эгоистичный ген.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "books/Докинз - Эгоистичный ген.md"
               }
             }
           }
@@ -117,7 +117,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "202102180455.md",
+    "books/Рекомендации по научпопу.md",
+    "Рекомендации по научпопу.md",
     "Untitled.md",
-    "Рекомендации по научпопу.md"
+    "202101150859.md"
   ]
 }
