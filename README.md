@@ -13,4 +13,4 @@
 На Андроиде скачал [GitJournal](https://gitjournal.io/), вроде то, что нужно. Позволяет вести заметки в Markdown и синхронизируется с помощью git. Пока нет версии обсидиана под андроид буду использовать его.
 
 Синхронизация через репозитарий на гитхабе.
-Решил, что надо бы ее делать публичной как [Никита]([https://github.com/nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge)), чтобы была мотивация, поэтому захостил это дело на [gitbook](https://ndrewnee.gitbook.io/wiki).
+Решил, что надо бы ее делать публичной как [Никита](https://github.com/nikitavoloboev/knowledge), чтобы была мотивация, поэтому захостил это дело на [Gitbook](https://ndrewnee.gitbook.io/wiki).
