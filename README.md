@@ -2,11 +2,11 @@
 modified: 2021-02-21T09:20:37+05:00
 ---
 
-# [Моя база знаний](https://ndrewnee.gitbook.io/wiki)
+# Моя база знаний
 
 Давно хотел начать писать заметки, но все было лень.
 
-Посмотрел на https://github.com/nikitavoloboev/knowledge, вроде вдохновился вести свою персональную базу знаний.
+Посмотрел на https://github.com/nikitavoloboev/knowledge, вроде вдохновился вести свою [персональную базу знаний](https://ndrewnee.gitbook.io/wiki).
 
 Буду писать сюда заметки и то что я знаю.
 
